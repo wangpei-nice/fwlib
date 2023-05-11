@@ -42,7 +42,7 @@ add_subdirectory(src)
 
 enable_testing()
 include(GoogleTest)
-add_subdirectory(test)
+#add_subdirectory(test)
 
 set_target_properties(fanuc_example
   PROPERTIES

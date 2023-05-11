@@ -3,7 +3,7 @@
 #ifndef _WIN32
 #include <getopt.h>
 #endif
-#include "../extern/libconfig/lib/libconfig.h"
+#include <libconfig.h>
 #include <stdbool.h>
 #include <stdlib.h>
 #include <string.h>
